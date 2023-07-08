@@ -1,0 +1,42 @@
+/* styles for all body-style all */
+*{
+    font-family: 'Open Sans', sans-serif; 
+}
+.btn-tap{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border:0;
+    font-size: 20px;
+    font-weight: 700;
+    color:white;
+    padding: 13px 35px;
+}
+.nav-title{
+    color: #181818;
+
+font-size: 45px;
+font-weight: 800;
+line-height: normal;
+}
+
+/* nav_style */
+nav {
+   display: flex;
+   justify-content: space-between;
+}
+.text-title{
+    color: #FD6E0A;
+    align-items: center;
+}
+nav  ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 51px;
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
