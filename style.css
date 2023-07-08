@@ -23,6 +23,7 @@ line-height: normal;
 nav {
    display: flex;
    justify-content: space-between;
+   margin:0px 200px;
 }
 .text-title{
     color: #FD6E0A;
@@ -35,8 +36,23 @@ nav  ul{
 nav li{
     list-style: none;
     margin-right: 51px;
+    te
 }
 nav a{
     text-decoration: none;
     color: #474747;
+ /* header related style */
+}
+.header{
+    background: #FFF8F3;
+    
+}
+.banar{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banar-picture .profile-pic{
+    width: 500px;
+    display: flex;
 }
