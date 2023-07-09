@@ -143,3 +143,14 @@ footer{
     padding: 130px 200px;
     margin-top: 100px;
 }
+.section-title{
+    gap: 100px;
+    
+    
+}
+.contact ,input ,textarea{
+    display:block;
+    margin-bottom: 20px;
+    padding:18px 40px;
+   
+}
