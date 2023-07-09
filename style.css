@@ -47,9 +47,10 @@ nav a{
 }
 .header{
     background: #FFF8F3;
-    background-image: url("images/header_bg.png");
+    background-image: url("images/header_bg.png"),url("images/developer.png");
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right,top left;
+   
     
 }
 .banar{
@@ -60,7 +61,7 @@ nav a{
 
 }
 .banar-picture .profile-pic{
-    width: 500px;
+    width: 800px;
     display: flex;
 }
 .tect-item{
@@ -152,5 +153,11 @@ footer{
     display:block;
     margin-bottom: 20px;
     padding:18px 40px;
+    
+
+
    
+}
+.social-links{
+    margin-right: 450px;
 }
